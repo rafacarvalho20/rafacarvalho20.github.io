@@ -1,0 +1,86 @@
+body {
+    background-color: #FFFFFF;
+}
+
+
+/*navbar*/
+.navbar {
+	height: 70px;
+	padding-bottom: 20px;
+	background-color:  #800000;
+	border-color:  #800000;
+}
+
+#menus {
+	margin-top: 5px;
+	padding-bottom: 20px;
+	color: #FFFFFF;
+}
+
+/*Jumbotrom*/
+#logorafa {
+    margin-right: 42%;
+    margin-left: 42%;
+}
+
+#nome{
+	padding-bottom: 20px;
+	color: #FFFFFF;
+}
+
+.jumbotron {
+    background-color:#b30000;
+	padding-top: 140px;
+}
+
+
+/*Portfolio*/
+
+h2 {
+    font-family: sans-serif;
+    text-align: center;
+    color: #203FA5;
+}
+
+.fotosportfolio {
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.row {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+/*sobremim*/
+#sobremim-div {
+    margin-top: 20px;
+    background-color: #b30000;
+    color: #FFFFFF;
+}
+
+.texto-sobremim {
+    text-align: justify;
+    
+}
+
+
+/*formulario*/
+#form-contato {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+
+/*rodape*/
+#rodape {
+    background-color: #800000;
+    color: #203FA5;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.glyphicon {
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
